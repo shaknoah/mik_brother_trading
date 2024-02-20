@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../client_trading_website"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../scss"
+		}
+	],
+	"settings": {}
+}
